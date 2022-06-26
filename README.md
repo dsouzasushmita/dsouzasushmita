@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dsouzasushmita
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning Python, JavaScript
+- 🌱 I’m currently learning TypeScript,GraphQL...
 - 📫 How to reach me dsouzasushmita17@gmail.com
 
 <!---
